@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React18_Practice_Robofriends/static/css/main.e6b0f222.css",
+    "main.js": "/React18_Practice_Robofriends/static/js/main.6fd045d5.js",
+    "static/js/453.eceb90f9.chunk.js": "/React18_Practice_Robofriends/static/js/453.eceb90f9.chunk.js",
+    "static/media/SEGA.woff": "/React18_Practice_Robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/React18_Practice_Robofriends/index.html",
+    "main.e6b0f222.css.map": "/React18_Practice_Robofriends/static/css/main.e6b0f222.css.map",
+    "main.6fd045d5.js.map": "/React18_Practice_Robofriends/static/js/main.6fd045d5.js.map",
+    "453.eceb90f9.chunk.js.map": "/React18_Practice_Robofriends/static/js/453.eceb90f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6b0f222.css",
+    "static/js/main.6fd045d5.js"
+  ]
+}
