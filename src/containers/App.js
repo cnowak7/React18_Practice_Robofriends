@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { robots } from '../robots';
 import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
